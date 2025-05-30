@@ -1,0 +1,13 @@
+node_modules
+dist
+.DS_Store
+server/public
+vite.config.ts.*
+*.tar.gz
+
+# Exclude uploaded files (these are stored in Bunny.net)
+public/uploads/videos/
+public/uploads/previews/
+public/uploads/thumbnails/
+public/uploads/temp/
+public/uploads/full-previews/
